@@ -1,0 +1,26 @@
+_repo: Vandemark-s-Folly_12179
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Quick, Herbert
+    alias: Quick, John Herbert
+    birthdate: 1861
+    deathdate: 1925
+    gutenberg_agent_id: '4251'
+    url: http://www.gutenberg.org/2009/agents/4251
+    wikipedia: http://desmoinesregister.com/extras/iowans/quick.html
+description: ''
+gutenberg_issued: '2004-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12179'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Frontier and pioneer life -- Iowa -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: Vandemark's Folly
+url: http://www.gutenberg.org/ebooks/12179
